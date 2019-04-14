@@ -6,4 +6,13 @@
     <string name="chat_fragment">Chat Fragment</string>
     <string name="groups_fragment">Groups Fragment</string>
     <string name="contacts_fragment">Contacts Fragment</string>
+    <string name="email">email....</string>
+    <string name="password">password....</string>
+    <string name="login">login</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="already_have_account">Already Have Account..?</string>
+    <string name="or_login_using_your">or Login using your?</string>
+    <string name="phone">Phone</string>
+    <string name="create_account">Create Account</string>
+    <string name="need_new_account_link">Need new Account</string>
 </resources>
